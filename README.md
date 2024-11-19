@@ -1,2 +1,2 @@
 # SpedenSpelitOamkProjekti
-SpedeSpelit koulu projekti
+SpedenSpelit kouluprojekti
