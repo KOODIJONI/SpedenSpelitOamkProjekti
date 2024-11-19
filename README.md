@@ -1,0 +1,2 @@
+# SpedenSpelitOamkProjekti
+SpedeSpelit koulu projekti
